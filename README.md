@@ -3,7 +3,10 @@
 <br>
 
 <h2> Java </h2>
-
+<ul>
+ <li>ch2.변수</li>
+ 
+</ul>
 <hr>
 <br>
 
