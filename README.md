@@ -4,7 +4,9 @@
 
 <h2> Java </h2>
 <ul>
- <li>ch2.변수</li>
+ <li>ch02.변수</li>
+ <li>ch03.연산자</li>
+ <li>ch04.조건문과 반복문</li>
  
 </ul>
 <hr>
