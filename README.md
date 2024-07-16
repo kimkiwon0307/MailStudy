@@ -45,11 +45,9 @@
 <br>
 
 <h2> 코딩테스트 </h2><br>
-<ul> 프로그래머스
- <li> LV 0 문제 (36/232) </li>
- <li> LV 1 문제 (2/81) </li>
- <li> LV 2 문제 (0/109) </li>
- <li> Do it! 알고리즘 코딩테스트 with JAVA (2/56)</li>
+<ul> 
+ <li> 프로그래머스 LV 0 문제 (10/232) </li>
+ <li> Do it! 알고리즘 코딩테스트 with JAVA (0/56)</li>
 </ul>
 <hr>
 <br>
@@ -64,7 +62,7 @@
 <hr>
 <br>
 
-<h2> Front </h2><br>
+<h2> FrontEnd</h2><br>
 <ul> HTML & CSS
     <li>입문자를 위한, HTML&CSS 웹 개발 입문(1/8)</li>
 </ul>
